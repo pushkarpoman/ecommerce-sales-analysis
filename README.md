@@ -48,7 +48,7 @@ jupyter notebook analysis.ipynb
 ```
 
 ---
-*Project by [Your Name] | [LinkedIn URL] | [Your Email]*
+Project by Pushkar Poman
 """
 
 with open('README.md', 'w') as f:
